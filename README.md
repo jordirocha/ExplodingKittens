@@ -28,8 +28,6 @@ Durante el segundo año del Grado Superior de Desarrollo de Aplicaciones Web rea
 
 Con este proyecto aplicamos Laravel como backend y frontend, uso de Scrum: para asignar historias de usuarios y planificaciones de sprints y un día de la semana realizabamos la reunión de Sprint Review así hasta finalizar el proyecto.
 
- </br>
-
 ### Características
 - Inicio y cierre de sesión
 - Roles dependiendo del tipo de usuario
@@ -63,12 +61,12 @@ Instalar las depencias del proyecto Laravel:
 
     composer install
    
-Usuarios con rol especilista:
+Usuarios con rol administrador:
 
 edwina.mccullough@example.org | password </br>
 margaretta33@example.com | password
 
-Usuarios con rol especilista:
+Usuarios con rol jugador:
 
 bradtke.evans@example.org | password
 
